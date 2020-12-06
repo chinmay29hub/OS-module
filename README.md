@@ -6,4 +6,10 @@
    
    2) For Linux   : pip3 install os-sys
    
+   
+## CODE :
+      
+      1) The linux_shut.py is for linux
+      2) The shut_win.py is for windows
+   
 ### For more click [here](https://github.com/chinmay29hub/ "python")
